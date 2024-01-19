@@ -1,4 +1,4 @@
-## you woken up in side a classroom
+## you woken up inside a classroom
 
 ### the teacher is teaching math
 
@@ -6,6 +6,6 @@
 
 what would you like to do?
 
-## Look around
+## [Look around](ending1/ending1.md)
 ## go back to sleep
 ## Listen to class and do your work
