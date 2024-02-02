@@ -1,3 +1,3 @@
 # cyoa
 
-## [Start adventure](../start/home.md)
+## [Start adventure](/start/home.md)
