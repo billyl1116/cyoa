@@ -1,4 +1,4 @@
 ## You run away from him
 ## You have two places to go
-### Bathroom
-### Exit
+### [Bathroom](../bathroom/bathroom.md)
+### [Exit]()
