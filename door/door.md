@@ -1,4 +1,4 @@
-## You run out the door and you saw your Math teacher
+## You run out the door and you see your Math teacher
 
 what would you like to do?
 ### [Run](../run/run.md)
