@@ -7,3 +7,5 @@
 ### Now you are in your 20 when everyone you know are in collage or getting a good job, you look like a 40 year old man working in a harsh job where you get paid low
 ### You cried, regret but there's nothing you can do now.
 ## True Ending (good)
+
+![Alt text](image.png)
