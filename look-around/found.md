@@ -1,7 +1,7 @@
 # you look around and found
 * iphone ![](../phone/image.png)
 * door ![](download.jpeg)
-* window ![](../window/window.md)
+* window ![](../window/image.png)
 
 what would you like to do?
 ## [look outside the window](../window/window.md)
