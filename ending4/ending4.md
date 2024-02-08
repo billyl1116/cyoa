@@ -3,5 +3,5 @@
 #### but isn't this what you hope for?
 #### Ending4(good ending?)
 
-![image](https://github.com/billyl1116/cyoa/assets/146866846/6a7ae85d-3a26-4918-8d3a-e356adbce60d)
+![Alt text](image.png)
 
