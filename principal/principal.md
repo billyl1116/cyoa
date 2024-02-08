@@ -1,5 +1,5 @@
 ### The Principal had a talk with you
-### he said a lot of meaningful things about how what you suppost to do now at a students
+### he said a lot of meaningful things about how what you're suppose to do now as a students
 
 What would you like to do?
 
