@@ -5,7 +5,6 @@ what would you like to do?
 ### [Fight him](../ending2/ending2.md)
 ### [Do nothing](../ending3/ending3.md)
 
-![Alt text](image.png)
-
+![Alt text](image-1.png)
 
 
